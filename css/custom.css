@@ -1,0 +1,57 @@
+.logo-small {
+    height: 50px;
+    width: 50px;
+}
+
+
+h1.official{
+  z-index: 1;
+}
+
+
+
+.bg-cover{
+  background-image:url('../images/dep1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-size: 600px 400px;
+  z-index: 1;
+}
+
+.colorr{
+  color: white;
+}
+/* .bg-cover2{
+  background-image: url('/images/teacher.png');
+  
+} */
+/* <!-- <div class="py-2 bg-light">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-9 d-none d-lg-block">
+            <a href="#" class="small mr-3"><span class="icon-question-circle-o mr-2"></span> Have a questions?</a> 
+            <a href="#" class="small mr-3"><span class="icon-phone2 mr-2"></span> 10 20 123 456</a> 
+            <a href="#" class="small mr-3"><span class="icon-envelope-o mr-2"></span> info@mydomain.com</a> 
+          </div>
+          <div class="col-lg-3 text-right">
+            <a href="login.html" class="small mr-3"><span class="icon-unlock-alt"></span> Log In</a>
+            <a href="register.html" class="small btn btn-primary px-4 py-2 rounded-0"><span class="icon-users"></span> Register</a>
+          </div>
+        </div>
+      </div>
+    </div> --> */
+/* role="banner" */
+/* <!-- <li>
+<a href="admissions.html" class="nav-link text-left">Admissions</a>
+</li> --> */
+/* <div class="ml-auto">
+<div class="social-wrap">
+  <!-- <a href="#"><span class="icon-facebook"></span></a>
+  <a href="#"><span class="icon-twitter"></span></a>
+  <a href="#"><span class="icon-linkedin"></span></a>
+
+  <a href="#" class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle text-black"><span
+    class="icon-menu h3"></span></a> -->
+</div>
+</div> */
